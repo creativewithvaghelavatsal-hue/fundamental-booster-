@@ -80,19 +80,19 @@ Then simply follow the on-screen prompts! 🎉
 ```
 👋 Welcome to Fundamental Booster!
 
-Enter your name: Aman
+Enter your name: vatsal
 Enter your age: 18
-Enter your height (in meters): 1.75
-Enter your favorite number: 1
+Enter your height (in meters): 6.89
+Enter your favorite number: 4
 
-📌 Name: Aman | Type: <class 'str'> | Memory Address: 140712834729392
+📌 Name: vatsal | Type: <class 'str'> | Memory Address: 140712834729392
 📌 Age: 18 | Type: <class 'int'> | Memory Address: 140712834729456
-📌 Height: 1.75 | Type: <class 'float'> | Memory Address: 140712834729520
-📌 Favorite Number: 1 | Type: <class 'int'> | Memory Address: 140712834729584
+📌 Height: 6.89 | Type: <class 'float'> | Memory Address: 140712834729520
+📌 Favorite Number: 4 | Type: <class 'int'> | Memory Address: 140712834729584
 
-🎂 Approximate Birth Year: 2008
+🎂 Approximate Birth Year: 2007
 
-🙏 Thank you, aman Hope you enjoyed exploring Python fundamentals with us!
+🙏 Thank you, vatsal Hope you enjoyed exploring Python fundamentals with us!
 ```
 
 > Note: Memory addresses will vary each time the program runs.
