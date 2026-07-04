@@ -133,7 +133,7 @@ By building this project, learners will be able to:
 
 ---
 ## 👤 Author 
-explanation-video linkhttps://drive.google.com/drive/folders/1Tdw0Mid2cOz1P4K6rnd9v-8Lko2KE6lB
+explanation-video linkhttps:https://drive.google.com/drive/folders/1Tdw0Mid2cOz1P4K6rnd9v-8Lko2KE6lB
 **Your Name**
 📧creativewithvaghela.vatsal@gmail.com
 🔗[github profile](https://github.com/creativewithvaghelavatsal-hue/fundamental-booster-)
