@@ -132,3 +132,11 @@ By building this project, learners will be able to:
 - ➕ Add unit tests to check calculations
 
 ---
+## 👤 Author 
+explanation-video link
+**Your Name**
+📧creativewithvaghela.vatsal@gmail.com
+🔗[github profile](https://github.com/creativewithvaghelavatsal-hue/fundamental-booster-)
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and share it for learning purposes.
